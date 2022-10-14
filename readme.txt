@@ -1,5 +1,2 @@
 helo ! iam Rittima 
-good evening
-ok
-bye
-
+good evening... i love my country....
