@@ -1,4 +1,4 @@
-helo ! iam Rittima 
+helo ! iam Rittima Biswas nickname Kiara
 <<<<<<< HEAD
 good evening
 ok
