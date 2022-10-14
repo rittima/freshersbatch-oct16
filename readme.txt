@@ -1,5 +1,6 @@
 helo ! iam Rittima 
 good evening
 ok
-bye
+bye.....iam going out....
+
 
